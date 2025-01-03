@@ -19,35 +19,58 @@ This requires the regular version of AIO. (Not the scripted version, and not the
 METHOD #1: Load the ICAIO_AIO Patch early in your modlist. In this case, add my patcher as a separate group in Synthesis, and run it with ONLY the following mods in the below order:
 
 Base Skyrim
+
 USSEP
+
 AIO
+
 ICAIO
 
 After the patcher finishes, add the ICAIO_AIO patch directly after the two AI mods. DO NOT ADD ANY AIO PATCHER INTO SYNTHESIS!!!! IT WILL UNDO THIS PATCHES CHANGES. Please note that you may need both AIO and ICAIO patches.
 
 Base Skyrim
+
 USSEP
+
 ...
+
 ...
+
 AIO
+
 ICAIO
+
 ICAIO_AIO PATCH
+
 ...
+
 ...
+
 SYNTHEIS
+
 
 
 METHOD #2: Load ICAIO directly after AIO wherever you would normally in your modlist. Add the correct patches for both mods. Then run Synthesis with all of your normal patches. Then run my patch in a separate group AFTER synthesis. AGAIN, DO NOT ADD ANY AIO PATCHER INTO SYNTHESIS!!!! Load order is as follows:
 
 Base Skyrim
+
 USSEP
+
 ...
+
 ...
+
 AIO
+
 ICAIO
+
 ...
+
 ...
+
 SYNTHEIS
+
 ICAIO_AIO PATCH
+
 
 After running the patcher. Look through the changes for AI packages that may need to be forwarded from mods other than AIO. This patcher reverts the AI packages for ICAIO controlled NPCs back to a vanilla or USSEP state. If AI packages are added by mods other than AIO, then they should be added to the patch manually in xEdit. Again, xEdit modgroups will help reduce the number of conflicts that need to be checked.
