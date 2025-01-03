@@ -1,0 +1,9 @@
+{
+  "Nickname": "ICAIO AIO Patch",
+  "Visibility": "Include",
+  "OneLineDescription": "ICAIO_AIO_Patch",
+  "LongDescription": "ICAIO-AIO Patch: DO NOT ADD TO SYNTHEIS.ESP!!!! READ INSTRUCIONTS CAREFULLY",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": []
+}
