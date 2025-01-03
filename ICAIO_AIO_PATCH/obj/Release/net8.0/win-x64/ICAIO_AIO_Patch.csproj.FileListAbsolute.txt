@@ -1,0 +1,122 @@
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.csproj.AssemblyReference.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.AssemblyInfoInputs.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.AssemblyInfo.cs
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.csproj.CoreCompileInputs.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.sourcelink.json
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.exe
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.deps.json
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.runtimeconfig.json
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.pdb
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\CommandLine.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\DynamicData.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\FluentResults.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\GameFinder.Common.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\GameFinder.RegistryUtils.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\GameFinder.StoreHandlers.GOG.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\GameFinder.StoreHandlers.Steam.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\GameFinder.StoreHandlers.Xbox.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\GameFinder.Wine.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\INIFileParser.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\K4os.Compression.LZ4.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\K4os.Compression.LZ4.Streams.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\K4os.Hash.xxHash.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Loqui.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Core.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Fallout4.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.FormKeys.SkyrimSE.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Json.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Kernel.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Oblivion.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Skyrim.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Starfield.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Synthesis.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\NexusMods.Paths.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Noggog.CSharpExt.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Noggog.SourceGenerators.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\OneOf.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Reloaded.Memory.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\ICSharpCode.SharpZipLib.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\Synthesis.Bethesda.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\System.IO.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\System.Linq.Async.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\System.Reactive.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\TestableIO.System.IO.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\TestableIO.System.IO.Abstractions.Wrappers.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\bin\Release\net8.0\win-x64\ValveKeyValue.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AI.44525626.Up2Date
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\refint\ICAIO_AIO_Patch.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.pdb
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.genruntimeconfig.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO AI for Mod NPCs\ICAIO_AI_FOR_MOD_NPC\obj\Release\net8.0\win-x64\ref\ICAIO_AIO_Patch.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.exe
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.deps.json
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.runtimeconfig.json
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\ICAIO_AIO_Patch.pdb
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\CommandLine.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\DynamicData.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\FluentResults.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\GameFinder.Common.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\GameFinder.RegistryUtils.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\GameFinder.StoreHandlers.GOG.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\GameFinder.StoreHandlers.Steam.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\GameFinder.StoreHandlers.Xbox.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\GameFinder.Wine.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\INIFileParser.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\K4os.Compression.LZ4.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\K4os.Compression.LZ4.Streams.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\K4os.Hash.xxHash.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Loqui.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Core.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Fallout4.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.FormKeys.SkyrimSE.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Json.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Kernel.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Oblivion.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Skyrim.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Starfield.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Mutagen.Bethesda.Synthesis.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\NexusMods.Paths.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Noggog.CSharpExt.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Noggog.SourceGenerators.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\OneOf.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Reloaded.Memory.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\ICSharpCode.SharpZipLib.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\Synthesis.Bethesda.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\System.IO.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\System.Linq.Async.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\System.Reactive.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\TestableIO.System.IO.Abstractions.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\TestableIO.System.IO.Abstractions.Wrappers.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\bin\Release\net8.0\win-x64\ValveKeyValue.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.csproj.AssemblyReference.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.AssemblyInfoInputs.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.AssemblyInfo.cs
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.csproj.CoreCompileInputs.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.sourcelink.json
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AI.44525626.Up2Date
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\refint\ICAIO_AIO_Patch.dll
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.pdb
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ICAIO_AIO_Patch.genruntimeconfig.cache
+F:\My Documents\Mutagen Patchers\ICAIO AIO Patcher\ICAIO_AIO_PATCH\ICAIO_AIO_PATCH\obj\Release\net8.0\win-x64\ref\ICAIO_AIO_Patch.dll
